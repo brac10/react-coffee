@@ -5,12 +5,15 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Ranger-Pi Community-Coffee w/Gatsby's starter CLI 
 </h1>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36cf3ead-5762-497d-a382-b3b441b38bdc/deploy-status)](https://app.netlify.com/sites/rangerpi/deploys)
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+Content API from:
+GraphQL
+ContentFul  
+ FormsPREE - Email Notification
+Netlify : DevOps Build/Production
 
 ## 🚀 Quick start
 
