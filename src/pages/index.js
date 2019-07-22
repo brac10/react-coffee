@@ -13,7 +13,7 @@ const IndexPage = ({ data }) => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <BackgroundSection
       img={data.img.childImageSharp.fluid}
-      title="Ranger-Pi Dark Roast"
+      title="Dark Roast"
     />
     <Info />
     <Menu items={data.menu} />
@@ -42,7 +42,7 @@ export const query = graphql`
           price
           category
           image {
-            fixed(width: 50, height: 50) {
+            fixed(width: 150, height: 150) {
               ...GatsbyContentfulFixed_tracedSVG
             }
           }
